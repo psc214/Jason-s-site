@@ -1,0 +1,106 @@
+
+body
+{
+
+}
+
+.jumbotron
+{
+  background-color: #003A5C;
+  margin-bottom: 0;
+  /*
+  background-image: url(images/5.jpg);
+  background-size: cover;
+	background-repeat: no-repeat;
+  */
+}
+
+.header-text
+{
+
+}
+
+#header-hr
+{
+  background-color: white
+}
+
+.navbar
+{
+  margin-bottom: 30px;
+  background-color: #AFBECA;
+}
+
+/*for col-sm-4 aside index.html*/
+.aside-color
+{
+  background-color: #A3DBEB;
+}
+
+/*for div col-sm-4 aside index.html*/
+.margin
+{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.video
+{
+  width: 500px;
+  height: 400px;
+}
+
+.footer
+{
+  margin-top: 30px;
+}
+
+#logo
+{
+  width: 275px;
+  height: 75px;
+}
+
+#logo:hover
+{
+  color: #ff0000;
+}
+
+.icon-color
+{
+  color: white;
+}
+
+.footer-text
+{
+
+}
+
+/*events*/
+.row-striped:nth-of-type(odd)
+{
+  background-color: #efefef;
+  border-left: 4px #000000 solid;
+}
+
+.row-striped:nth-of-type(even)
+{
+  background-color: #ffffff;
+  border-left: 4px #efefef solid;
+}
+
+.row-striped
+{
+    padding: 15px 0;
+}
+
+.event-year
+{
+  margin-left: 15px;
+}
+
+/*carousel text*/
+.carText-color
+{
+  color: red;
+}
